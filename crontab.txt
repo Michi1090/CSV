@@ -1,0 +1,2 @@
+# crontabファイルの設定
+* * * * * cd /Users/michi/Desktop/task; python3 task.py
